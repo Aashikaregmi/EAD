@@ -1,0 +1,27 @@
+# Ignore compiled class files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+bin/
+build/
+
+# Ignore Java backup files
+*.swp
+*~
+
+# Ignore IntelliJ IDEA project files (if you use it)
+*.iml
+.idea/
+
+# Optional: ignore test output or coverage
+/test-output/
+/coverage/
